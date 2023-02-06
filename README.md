@@ -1,4 +1,4 @@
-# Capture-image-from-web-cam
+# Capture-image-from-web-cam with python
 I made this software to capture image from webcam with requirement of interval and number of image want to capture
 
 this link to download exe file that i converted from python code. 
